@@ -1,0 +1,16 @@
+{
+  "name": "knife-hit-game",
+  "version": "1.0.0",
+  "description": "server side of knife hit multuplayer game",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "geeksesi::javad",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "express": "^4.16.4",
+    "ws": "^6.1.0"
+  }
+}
